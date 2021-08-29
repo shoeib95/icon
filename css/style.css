@@ -1,0 +1,36 @@
+/**{
+	margin: 0;
+	padding: 0;
+}*/
+.social-icon{
+padding: 20px 0px;
+text-align: center;
+
+}
+.social-icon ul li{
+list-style: none;
+display: inline-block;
+margin: 0px 20px;
+}
+
+.social-icon ul li a{
+
+
+}
+
+.social-icon ul li a i{
+background: #87A8A4;
+height: 70px;
+width: 70px;
+line-height: 70px;
+color: #035397;
+font-size: 25px;
+border-radius: 100%;
+
+}
+.social-icon ul li a i:hover{
+background: #835151;
+transition: 0.5s;
+transform: rotate(360deg);
+
+}
